@@ -1,7 +1,7 @@
 import pygame
 from tkinter import messagebox
 
-class VisionProcessor:
+class UpsMonitor:
     def __init__(self, start_charge):
         self.charge = float(start_charge)
         
